@@ -3,4 +3,4 @@ create or replace table demo.test.test_table(
   name varchar(10)
   );
 
-select * from demo.test.test_table;
+--select * from demo.test.test_table;
